@@ -10,11 +10,11 @@
   "keywords": [],
   "author": "",
   "resolutions": {
-  "glob": "^9.0.0",
-  "rimraf": "^4.0.0"
-},
-   "license": "ISC",
-  "description": "��#\u0000 \u0000A\u0000i\u0000-\u0000R\u0000e\u0000s\u0000u\u0000m\u0000e\u0000-\u0000B\u0000u\u0000i\u0000l\u0000d\u0000e\u0000r\u0000-\u0000B\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
+    "glob": "^9.0.0",
+    "rimraf": "^4.0.0"
+  },
+  "license": "ISC",
+  "description": "AI Resume Builder Backend",
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "bcrypt": "^5.1.1",
@@ -24,8 +24,7 @@
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.5.1",
-    "multer": "^2.0.2",
-    
+    "multer": "^2.0.2"
   },
   "devDependencies": {}
 }
